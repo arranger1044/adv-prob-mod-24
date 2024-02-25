@@ -21,7 +21,7 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
 
 ## Exam: critical presentation
 Each student will be evaluated (score 0-10) for their participation in class (10%) and for a their final project (90%), to be done in teams. 
-All students in a team (max 4) will be asked to present as a final project one or more papers or past projects from their research experience. 
+All students in a team (max 4) will be asked to do a short presentation (20 mins + 10 mins QA) as a final project about one or more papers or past projects from their research experience. 
 Every presentation shall critically discuss the proposed paper/project under the light of what has been presented in the course.
 
 ### What to discuss
@@ -38,6 +38,15 @@ Possible aspects to highlight and discuss in your presentation include
 Tell Antonio who your team is, by the end of lecture #2.
 
 ### (Possible) papers to present
+Each team can select one or more papers from the list below, propose a paper that is not in the list, or simply present some unpublished work.
+
+- [Graph Mixture Density Networks](https://arxiv.org/abs/2012.03085)
+- [Complex Query Answering with Neural Link Predictors](https://openreview.net/pdf?id=Mos9F9kDwkz)
+- [Tractable Control for Autoregressive Language Generation](https://arxiv.org/abs/2304.07438)
+- [Image Inpainting via Tractable Steering of Diffusion Models](https://arxiv.org/abs/2401.03349)
+- [Hierarchical Decompositional Mixtures of Variational Autoencoders](https://proceedings.mlr.press/v97/tan19b.html)
+- [Faster Attend-Infer-Repeat with Tractable Probabilistic Models](https://proceedings.mlr.press/v97/stelzner19a.html)
+- [Neural Probabilistic Logic Programming in Discrete-Continuous Domains](https://arxiv.org/abs/2303.04660)
 
 ## Discussion & Contacts
 Feel free to discuss lectures and further topics in probabilistic reasoning in our [google group](mailto:advanced-probabilistic-modeling-2024-rnoos72391n9-unverified@unitn.it). Alternatively, send an email to Antonio for any question about the course organization. 
