@@ -40,5 +40,5 @@ Tell Antonio who your team is, by the end of lecture #2.
 ### (Possible) papers to present
 
 ## Discussion & Contacts
-Feel free to discuss lectures and further topics in probabilistic reasoning in our [google group](advanced-probabilistic-modeling-2024-rnoos72391n9-unverified@unitn.it). Alternatively, send an email to Antonio for any question about the course organization. 
+Feel free to discuss lectures and further topics in probabilistic reasoning in our [google group](mailto:advanced-probabilistic-modeling-2024-rnoos72391n9-unverified@unitn.it). Alternatively, send an email to Antonio for any question about the course organization. 
 
