@@ -47,6 +47,7 @@ Each team can select one or more papers from the list below, propose a paper tha
 - [Hierarchical Decompositional Mixtures of Variational Autoencoders](https://proceedings.mlr.press/v97/tan19b.html)
 - [Faster Attend-Infer-Repeat with Tractable Probabilistic Models](https://proceedings.mlr.press/v97/stelzner19a.html)
 - [Neural Probabilistic Logic Programming in Discrete-Continuous Domains](https://arxiv.org/abs/2303.04660)
+- [Lossless Compression with Probabilistic Circuits](https://openreview.net/forum?id=X_hByk2-5je)
 
 ## Discussion & Contacts
 Feel free to discuss lectures and further topics in probabilistic reasoning in our [google group](mailto:advanced-probabilistic-modeling-2024-rnoos72391n9-unverified@unitn.it). Alternatively, send an email to Antonio for any question about the course organization. 
