@@ -9,6 +9,7 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
 ## Lectures
 
 - lecture #1 [04/03/24]
+   - slides: [Intro to (advanced) probabilistic reasoning (Part I)](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/intro.pdf)
 - lecture #2 [05/03/24]
 - lecture #3 [06/03/24]
 - lecture #4 [07/03/24]
