@@ -13,7 +13,7 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
    - recap of probability [theory and basics](https://www.youtube.com/watch?v=TTo2kjrAuTo)
 - lecture #2 [05/03/24]
    - slides: [Intro to (advanced) probabilistic reasoning (Part II)](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/intro.pdf)
-   - more on [normalizing flows]([https://www.youtube.com/watch?v=TTo2kjrAuTo](https://arxiv.org/abs/1912.02762))
+   - more on [normalizing flows](https://arxiv.org/abs/1912.02762)
    - code snippets to implement DGMs in [Jakub's blog](https://jmtomczak.github.io/)
 - lecture #3 [06/03/24]
 - lecture #4 [07/03/24]
