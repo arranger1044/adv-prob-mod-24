@@ -16,6 +16,8 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
    - more on [normalizing flows](https://arxiv.org/abs/1912.02762)
    - code snippets to implement DGMs in [Jakub's blog](https://jmtomczak.github.io/)
 - lecture #3 [06/03/24]
+   - slides: [Circuits: representation and inference (Part I)](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/circuits.pdf)
+   - companion [paper on PCs](https://yoojungchoi.github.io/files/ProbCirc20.pdf)
 - lecture #4 [07/03/24]
 - lecture #5 [08/03/24]
 - lecture #6 [11/03/24]
