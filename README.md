@@ -19,6 +19,8 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
    - slides: [Circuits: representation and inference (Part I)](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/circuits.pdf)
    - companion [paper on PCs](https://yoojungchoi.github.io/files/ProbCirc20.pdf)
 - lecture #4 [07/03/24]
+  - slides: [Circuits: representation and inference (Part II)](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/circuits.pdf)
+  - further reading: [composing tractable inference routines](https://papers.nips.cc/paper/2021/hash/6e01383fd96a17ae51cc3e15447e7533-Abstract.html)
 - lecture #5 [08/03/24]
 - lecture #6 [11/03/24]
 - lecture #7 [12/03/24]
