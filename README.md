@@ -22,6 +22,8 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
   - slides: [Circuits: representation and inference (Part II)](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/circuits.pdf)
   - further reading: [composing tractable inference routines](https://papers.nips.cc/paper/2021/hash/6e01383fd96a17ae51cc3e15447e7533-Abstract.html)
 - lecture #5 [08/03/24]
+  - slides: [Learning Circuits](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/learning.pdf)
+  - further reading: [tensorizing circuits](https://openreview.net/forum?id=1btutFdIya) and a [survey on learning](https://arxiv.org/abs/2402.00759)
 - lecture #6 [11/03/24]
 - lecture #7 [12/03/24]
 - lecture #8 [13/03/24]
