@@ -29,8 +29,11 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
   - further reading: [prob & fuzzy NeSy](https://research.vu.nl/en/publications/optimisation-in-neurosymbolic-learning-systems)
 - lecture #7 [12/03/24]
 - lecture #8 [13/03/24]
+  - guest lecture by [Stefano Teso](https://scholar.google.ca/citations?user=uaQCyXkAAAAJ) on "Reasoning-shortcuts in NeSy AI"
 - lecture #9 [14/03/24]
+  - Groups 1, 6, 2 presenting
 - lecture #10 [15/03/24]
+  - Groups 3, 4, 5 presenting
 
 ## Exam: critical presentation
 Each student will be evaluated (score 0-10) for their participation in class (10%) and for a their final project (90%), to be done in teams. 
