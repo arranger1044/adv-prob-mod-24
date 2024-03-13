@@ -28,7 +28,10 @@ Every Mon-Fri, from 9.30am to 11.30am in room Garda (Povo1, second floor).
   - slides: [Intro to Probabilistic Neuro-Symbolic AI](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/nesy.pdf)
   - further reading: [prob & fuzzy NeSy](https://research.vu.nl/en/publications/optimisation-in-neurosymbolic-learning-systems)
 - lecture #7 [12/03/24]
+  - slides: [on enforcing constraints with provable guarantees](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/nesy.pdf)
+  - further reading: [deepproblog](https://arxiv.org/abs/1805.10872#)
 - lecture #8 [13/03/24]
+  - slides: [(generative) knowledge graph embedding models](https://github.com/arranger1044/adv-prob-mod-24/blob/main/slides/kge.pdf)
   - guest lecture by [Stefano Teso](https://scholar.google.ca/citations?user=uaQCyXkAAAAJ) on "Reasoning-shortcuts in NeSy AI"
 - lecture #9 [14/03/24]
   - Groups 1, 6, 2 presenting
